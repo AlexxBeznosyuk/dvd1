@@ -26,10 +26,6 @@ use yii\widgets\ActiveForm;
 
     <?= $form->field($model, 'rating')->textInput(['maxlength' => true]) ?>
 
-    <?= $form->field($model, 'pricein')->textInput(['maxlength' => true]) ?>
-
-    <?= $form->field($model, 'pricesale')->textInput() ?>
-
     <?= $form->field($model, 'img')->textInput(['maxlength' => true]) ?>
 
     <?= $form->field($model, 'description')->textarea(['rows' => 6]) ?>

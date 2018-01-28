@@ -29,10 +29,6 @@ use yii\widgets\ActiveForm;
 
     <?php // echo $form->field($model, 'rating') ?>
 
-    <?php // echo $form->field($model, 'pricein') ?>
-
-    <?php // echo $form->field($model, 'pricesale') ?>
-
     <?php // echo $form->field($model, 'img') ?>
 
     <?php // echo $form->field($model, 'description') ?>
